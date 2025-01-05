@@ -1,0 +1,7 @@
+@inproceedings{REPO155,
+    author = "Tan, Weihao and Zhang, Wentao and Liu, Shanqi and Zheng, Longtao and Wang, Xinrun and An, Bo",
+    booktitle = "The Twelfth International Conference on Learning Representations",
+    title = "{True Knowledge Comes from Practice: Aligning Large Language Models with Embodied Environments via Reinforcement Learning}",
+    url = "https://openreview.net/forum?id=hILVmJ4Uvu",
+    year = "2024"
+}
